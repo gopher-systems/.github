@@ -9,6 +9,10 @@ Filter the systems by different categories
 ### Databases
 
 - [PostgreSQL]()
+- [Cassandra]()
+- [Redis]()
+- [MongoDB]()
+- [BigTable]()
 
 ### Software Architectures
 
@@ -29,6 +33,12 @@ Filter the systems by different categories
 - [GraphQL]()
 - [Web socket]()
 - [gRPC]()
+- [FTP]()
 - [Webhook]()
+- [SMTP]()
 
-### Frameworks
+### Deploy
+
+- [Kubernetes]()
+- [Docker]()
+- [AWS]()
