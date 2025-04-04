@@ -31,6 +31,7 @@ Filter the systems by different categories
 - [Model-View-Controller]()
 - [Vertical Slices]()
 - [Ports and Adapters]()
+- [Event-driven Architecture]()
 
 ### Distributed Systems
 
