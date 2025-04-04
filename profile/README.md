@@ -8,11 +8,11 @@ If you want to learn more about how systems are structured and how to contribute
 
 Filter the systems by difficulty of implementation
 
-- [Very easy]()
-- [Easy]()
-- [Moderate]()
-- [Difficult]()
-- [Very difficult]()
+- [Very easy]() 🦎 Basically a CRUD
+- [Easy]() 🐢 Basic software and networking concepts
+- [Moderate]() 🐸 More complex use cases and architectures
+- [Difficult]() 🐊 Distributed systems and network protocols
+- [Very difficult]() 🦖 Now scale that to millions
 
 ## Categories
 
