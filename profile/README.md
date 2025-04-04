@@ -2,6 +2,16 @@ Our proposal is to present different types of systems with different software ar
 You can read the README of each system and implement it yourself before seeing our solution. This way, you can practice your system implementation
 and also see different approaches to solving the same problem
 
+## Difficulty
+
+Filter the systems by difficulty of implementation
+
+- [Very easy]()
+- [Easy]()
+- [Moderate]()
+- [Difficult]()
+- [Very difficult]()
+
 ## Categories
 
 Filter the systems by different categories
@@ -20,6 +30,7 @@ Filter the systems by different categories
 - [Clean Architecture]()
 - [Model-View-Controller]()
 - [Vertical Slices]()
+- [Ports and Adapters]()
 
 ### Distributed Systems
 
