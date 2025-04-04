@@ -34,10 +34,10 @@ Filter the systems by different categories
 - [Vertical Slices]()
 - [Ports and Adapters]()
 - [Event-driven Architecture]()
+- [Modular Monolith]()
 
 ### Distributed Systems
 
-- [Monolith]()
 - [Microservices]()
 - [Peer-To-Peer]()
 - [Blockchain]()
