@@ -18,7 +18,7 @@ Filter the systems by difficulty of implementation
 
 Filter the systems by different categories
 
-### Databases
+#### 🗂️ Databases
 
 - [PostgreSQL]()
 - [Cassandra]()
@@ -27,7 +27,7 @@ Filter the systems by different categories
 - [BigTable]()
 - [Timescale]()
 
-### Software Architectures
+#### 🏗️ Software Architectures
 
 - [Clean Architecture]()
 - [Model-View-Controller]()
@@ -36,14 +36,14 @@ Filter the systems by different categories
 - [Event-driven Architecture]()
 - [Modular Monolith]()
 
-### Distributed Systems
+#### 🛰️ Distributed Systems
 
 - [Microservices]()
 - [Peer-To-Peer]()
 - [Blockchain]()
 - [CQRS]()
 
-### Communication
+#### 🌍 Communication
 
 - [HTTP]()
 - [GraphQL]()
@@ -53,7 +53,7 @@ Filter the systems by different categories
 - [Webhook]()
 - [SMTP]()
 
-### Deploy
+#### 🚀 Deploy
 
 - [Kubernetes]()
 - [Docker]()
