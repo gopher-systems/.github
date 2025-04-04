@@ -41,6 +41,7 @@ Filter the systems by different categories
 - [Microservices]()
 - [Peer-To-Peer]()
 - [Blockchain]()
+- [CQRS]()
 
 ### Communication
 
