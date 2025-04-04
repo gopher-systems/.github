@@ -2,12 +2,33 @@ Our proposal is to present different types of systems with different software ar
 You can read the README of each system and implement it yourself before seeing our solution. This way, you can practice your system implementation
 and also see different approaches to solving the same problem
 
-# Categories
+## Categories
 
-## Databases
+Filter the systems by different categories
 
-## Software Architectures
+### Databases
 
-## Distributed Systems
+- [PostgreSQL]()
 
-## Frameworks
+### Software Architectures
+
+- [Clean Architecture]()
+- [Model-View-Controller]()
+- [Vertical Slices]()
+
+### Distributed Systems
+
+- [Monolith]()
+- [Microservices]()
+- [Peer-To-Peer]()
+- [Blockchain]()
+
+### Communication
+
+- [HTTP]()
+- [GraphQL]()
+- [Web socket]()
+- [gRPC]()
+- [Webhook]()
+
+### Frameworks
