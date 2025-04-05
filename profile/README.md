@@ -26,6 +26,7 @@ Filter the systems by different categories
 - [MongoDB](https://github.com/orgs/gopher-systems/repositories?q=topic:mongodb)
 - [BigTable](https://github.com/orgs/gopher-systems/repositories?q=topic:bigtable)
 - [Timescale](https://github.com/orgs/gopher-systems/repositories?q=topic:timescale)
+- [S3](https://github.com/orgs/gopher-systems/repositories?q=topic:s3)
 
 #### 🏗️ Software Architectures
 
