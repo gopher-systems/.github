@@ -2,7 +2,7 @@ Our proposal is to present different types of systems with different software ar
 You can read the README of each system and implement it yourself before seeing our solution. This way, you can practice your system implementation
 and also see different approaches to solving the same problems
 
-See the [Gopher Systems guide]() to learn how to contribute and practice systems
+See the [Gopher Systems guide](https://github.com/gopher-systems/guide) to learn how to contribute and practice systems
 
 ## Difficulty
 
