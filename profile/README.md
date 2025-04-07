@@ -20,13 +20,12 @@ Filter the systems by different categories
 
 #### 🗂️ Databases
 
-- [PostgreSQL](https://github.com/orgs/gopher-systems/repositories?q=topic:postgresql)
-- [Cassandra](https://github.com/orgs/gopher-systems/repositories?q=topic:cassandra)
-- [Redis](https://github.com/orgs/gopher-systems/repositories?q=topic:redis)
-- [MongoDB](https://github.com/orgs/gopher-systems/repositories?q=topic:mongodb)
-- [BigTable](https://github.com/orgs/gopher-systems/repositories?q=topic:bigtable)
-- [Timescale](https://github.com/orgs/gopher-systems/repositories?q=topic:timescale)
-- [S3](https://github.com/orgs/gopher-systems/repositories?q=topic:s3)
+- [Relational Database](https://github.com/orgs/gopher-systems/repositories?q=topic:relational-db)
+- [Document-Oriented Database](https://github.com/orgs/gopher-systems/repositories?q=topic:document-db)
+- [Key-Value Database](https://github.com/orgs/gopher-systems/repositories?q=topic:key-value-db)
+- [Graph Database](https://github.com/orgs/gopher-systems/repositories?q=topic:graph-db)
+- [Columnar Database](https://github.com/orgs/gopher-systems/repositories?q=topic:columnar-db)
+- [Time-Series Database](https://github.com/orgs/gopher-systems/repositories?q=topic:time-series-db)
 
 #### 🏗️ Software Architectures
 
@@ -35,10 +34,10 @@ Filter the systems by different categories
 - [Vertical Slices](https://github.com/orgs/gopher-systems/repositories?q=topic:vertical-slices)
 - [Ports and Adapters](https://github.com/orgs/gopher-systems/repositories?q=topic:ports-and-adapters)
 - [Event-driven Architecture](https://github.com/orgs/gopher-systems/repositories?q=topic:event-driven-architecture)
-- [Modular Monolith](https://github.com/orgs/gopher-systems/repositories?q=topic:modular-monolith)
 
 #### 🛰️ Distributed Systems
 
+- [Monolith](https://github.com/orgs/gopher-systems/repositories?q=topic:monolith)
 - [Microservices](https://github.com/orgs/gopher-systems/repositories?q=topic:microservices)
 - [Peer-To-Peer](https://github.com/orgs/gopher-systems/repositories?q=topic:peer-to-peer)
 - [Blockchain](https://github.com/orgs/gopher-systems/repositories?q=topic:blockchain)
@@ -58,4 +57,3 @@ Filter the systems by different categories
 
 - [Kubernetes](https://github.com/orgs/gopher-systems/repositories?q=topic:kubernetes)
 - [Docker](https://github.com/orgs/gopher-systems/repositories?q=topic:docker)
-- [AWS](https://github.com/orgs/gopher-systems/repositories?q=topic:aws)
